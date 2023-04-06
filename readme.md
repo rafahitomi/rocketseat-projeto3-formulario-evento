@@ -1,4 +1,4 @@
-# Desafio Projeto 3 - Formulário Crie seu Evento
+# Projeto 3 - Formulário Crie seu Evento
 
 Desafio do Stage 03 do curso Explorer.
 
