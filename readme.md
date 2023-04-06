@@ -15,7 +15,7 @@ Alguns conceitos aprendidos durante a aula:
 
 ---
 
-**Projeto Final**
+**Projeto Final (clique na imagem para assistir o vídeo)**
 [![Watch the video](https://i.ibb.co/KsptMS9/image.png)](https://clipchamp.com/watch/efieLUaA6hx)
 
 ---
