@@ -237,3 +237,43 @@ footer .button {
 footer .button:hover {
   background: #08A04C;
 }
+
+
+/* RESPONSIVIDADE */
+@media (max-width: 900px) {
+  .page {
+    width: 60.0rem;
+  }
+}
+
+@media (max-width: 650px) {
+  .page, .cabecalho {
+    width: 30.0rem;
+  }
+
+  .titulo__cabecalho {
+    font-size: 3.2rem;
+    text-align: center;
+  }
+
+  .texto__cabecalho {
+    text-align: center;
+  }
+
+  form {
+    padding: 2.4rem;
+  }
+
+  legend {
+    font-size: 2.2rem;
+    padding-bottom: 1.0rem;
+  }
+
+  .input__wrapper label span {
+    margin-left: 0.5rem;
+  }
+
+  .col__3 {
+    flex-direction: column;
+  }
+}
