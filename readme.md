@@ -1,8 +1,7 @@
 # Projeto 3 - Formulário Crie seu Evento
 
-Desafio do Stage 03 do curso Explorer.
+Projeto do Stage 03 do curso Explorer.
 
-Aprendi diversos conceitos novos para fazer esse formulário e estou ansiosa para fazer outros dois desafios extras para fixar. De primeiro momento, parece "assustador", mas nada que a prática para esse "medo" diminuir!
 
 Alguns conceitos aprendidos durante a aula:
 - Agrupando campos com fieldset e legend;
@@ -16,7 +15,7 @@ Alguns conceitos aprendidos durante a aula:
 ---
 
 **Projeto Final (clique na imagem para assistir o vídeo)**
-[![Watch the video](https://i.ibb.co/KsptMS9/image.png)](https://clipchamp.com/watch/efieLUaA6hx)
+[![Watch the video](https://i.ibb.co/KsptMS9/image.png)](https://clipchamp.com/watch/4DkQpOeXO4t)
 
 ---
 
@@ -24,3 +23,9 @@ Alguns conceitos aprendidos durante a aula:
 
 * HTML
 * CSS
+
+---
+
+## 📌 Link
+
+[Formulário Crie seu Evento](https://rocketseat-projeto3-formulario-evento.vercel.app/) - Verifique no dispositivo móvel e desktop.
